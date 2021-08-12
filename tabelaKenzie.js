@@ -27,4 +27,4 @@ function BonusTable(n){
     console.table(y)
 }
 
-console.log("Type 'BonusTable' ")
+
